@@ -15,6 +15,7 @@ Develop a website where user can get a random pokemon and evolve them.
   * See a list of available pokemon
   * Get a random pokemon
 * Display the pokemon's name, image and key stats
+* Provide a button for user to evolve their pokemon
 * When user refresh the page, the assigned pokemon should not change until they click the button to get a new random pokemon
 
 
